@@ -39,8 +39,7 @@ To analyze Amazon's international sales performance and uncover patterns, trends
 
 
 
-![Amazon Sales Dashboard]
-(dashboard.png)  
+![Amazon Sales Dashboard](dashboard.png)  
 
 
 ---
