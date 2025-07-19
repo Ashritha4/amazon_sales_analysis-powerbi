@@ -37,10 +37,11 @@ To analyze Amazon's international sales performance and uncover patterns, trends
 
 ## 📈 Dashboard Overview
 
-> Add this section to highlight your dashboard visually.
 
-![Amazon Sales Dashboard](dashboard.png)  
-<sub>📍 *Upload your Power BI dashboard screenshot as `dashboard.png` in the repo and it will show up here.*</sub>
+
+![Amazon Sales Dashboard]
+(dashboard.png)  
+
 
 ---
 
